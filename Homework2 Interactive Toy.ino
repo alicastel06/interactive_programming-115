@@ -24,7 +24,6 @@ unsigned long fadeTimer = 0;
 //unsigned long previousMillis = 0;
 
 void setup() {
-  // put your setup code here, to run once:
   pinMode(RledPin, OUTPUT);
   pinMode(GledPin, OUTPUT);
   pinMode(BledPin, OUTPUT);
